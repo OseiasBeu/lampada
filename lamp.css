@@ -1,0 +1,42 @@
+/* body{
+    background-color: black;
+} */
+
+#btnOff, #btnQueb{
+    display: none;
+}
+
+
+section{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    border: 2px solid black;
+}
+
+button{
+    height: 100px;
+    width: 100%;
+}
+
+img{
+    width: 150px;
+    height: 300px;
+}
+
+article{
+    display: flex;
+    flex-direction: column;
+}
+
+#img2{
+    display: none;
+}
+
+
+#img3{
+    display: none;
+}
